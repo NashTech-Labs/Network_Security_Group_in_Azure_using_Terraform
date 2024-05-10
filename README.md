@@ -1,6 +1,6 @@
 ## Description
 
-Here, In this template, we will create the network security rule module in Azure cloud using the terraform scripts. 
+Here, In this template, we will create the network security group module in Azure cloud using the terraform scripts. 
 
 ---
 
